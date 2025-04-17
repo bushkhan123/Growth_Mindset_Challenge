@@ -29,7 +29,7 @@ if page == "🏠 Home":
 - **Celebrate Effort:** Progress matters more than perfection.
 - **Stay Curious:** Always be open to learning something new.
     """)
-    st.image("https://miro.medium.com/v2/resize:fit:720/format:webp/1*Ek3tOj9cZ1W7akXyAn5cXA.png", caption="Growth vs Fixed Mindset", use_column_width=True)
+    st.image("mg.jpg", caption="Growth vs Fixed Mindset", use_column_width=True)
 
 # Page: Daily Challenge
 elif page == "📝 Daily Challenge":
